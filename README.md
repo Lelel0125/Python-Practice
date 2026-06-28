@@ -17,8 +17,9 @@ Python-Practice/
 | **Data Structures** | Lists, dictionaries, 2D collections, collection operations |
 | **Functions & Scope** | Functions, default/keyword args, args/kwargs, scope resolution, iterables |
 | **OOP & Modules** | Modules, imports, `__name__` usage, list comprehensions |
-| **Mini Projects** | Banking program, encryption, Hangman, slot machine, quiz game, dice roller, countdown timer |
+| **Mini Projects** | Banking program, encryption, quiz game, dice roller, countdown timer |
 | **Games** | Rock-Paper-Scissors, Number Guessing, Hangman, Madlibs, Slot Machine |
+| **Trying** | SortTry |
 
 ## 🚀 How to Run
 
