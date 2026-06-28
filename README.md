@@ -1,15 +1,16 @@
 # Python Practice 🐍
 
-My personal collection of Python practice programs — from fundamentals to small projects.
+Fundamental Python programming — preparing for university CS/EE studies.
 
-## 📂 Structure
+## 🛠️ Skills
 
-```
-Python-Practice/
-└── Python Program/     # 51 Python programs — all in one place
-```
+`Variables` · `Data Types` · `Type Casting` · `User Input` · `Arithmetic`
+`Control Flow` · `Loops` · `Functions` · `Scope Resolution`
+`Strings` · `Lists` · `Dictionaries` · `2D Collections`
+`Modules & Imports` · `List Comprehensions`
+`Default / Keyword / *args / **kwargs` · `Match-Case`
 
-## 🧩 What's Inside
+## 📂 What's Inside
 
 | Category | Files |
 |----------|-------|
@@ -22,14 +23,6 @@ Python-Practice/
 | **Mini Projects** | `BankingProgram`, `encryptionProgram`, `ShoppingCart`, `concessionStand`, `countdownTimer`, `compoundInterestCalc`, `TemperatureConversion`, `weightConversion`, `calculator`, `randomNumber`, `DiceRoller`, `quizGame`, `Madlibs` |
 | **Games** | `RockPaperScissor`, `NumGuessing`, `Hangman_game` (with `hangman_wordlist`), `slotMachine` |
 | **Trying** | `Sort_try` |
-
-## 🚀 How to Run
-
-```bash
-python filename.py
-```
-
-> Built with Python 3.x
 
 ---
 
