@@ -19,7 +19,7 @@ Python-Practice/
 | **Data Structures** | `collection`, `2dCollection`, `Dictionary`, `listComprehensions`, `membershipOperator`, `Iterable` |
 | **Functions** | `functions`, `DefaultArguments`, `keywordArguments`, `args&kwargs`, `scopeResolution` |
 | **Modules & OOP** | `module`, `Exmodule`, `__name__Script1`, `__name__Script2` |
-| **Mini Projects** | `BankingProgram`, `encryptionProgram`, `ShoppingCart`, `concessionStand`, `countdownTimer`, `compoundInterestCalc`, `TemperatureConversion`, `weightConversion`, `calculator`, `randomNumber`, `DIceRoller`, `quizGame`, `Madlibs` |
+| **Mini Projects** | `BankingProgram`, `encryptionProgram`, `ShoppingCart`, `concessionStand`, `countdownTimer`, `compoundInterestCalc`, `TemperatureConversion`, `weightConversion`, `calculator`, `randomNumber`, `DiceRoller`, `quizGame`, `Madlibs` |
 | **Games** | `RockPaperScissor`, `NumGuessing`, `Hangman_game` (with `hangman_wordlist`), `slotMachine` |
 | **Trying** | `Sort_try` |
 
