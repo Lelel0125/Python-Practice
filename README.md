@@ -11,15 +11,16 @@ Python-Practice/
 
 ## 🧩 What's Inside
 
-| Category | Examples |
-|----------|----------|
-| **Basics** | Variables, type casting, user input, strings, math, loops, conditionals |
-| **Data Structures** | Lists, dictionaries, 2D collections, collection operations |
-| **Functions & Scope** | Functions, default/keyword args, args/kwargs, scope resolution, iterables |
-| **OOP & Modules** | Modules, imports, `__name__` usage, list comprehensions |
-| **Mini Projects** | Banking program, encryption, quiz game, dice roller, countdown timer |
-| **Games** | Rock-Paper-Scissors, Number Guessing, Hangman, Madlibs, Slot Machine |
-| **Trying** | SortTry |
+| Category | Files |
+|----------|-------|
+| **Basics** | `Variable`, `userInput`, `typeCasting`, `arithmetic`, `math`, `mathExercise`, `formatSpecifiers`, `main` |
+| **Control Flow** | `ifStatement`, `conditionalExpression`, `logicalOperator`, `matchcaseStatement`, `ForLoop`, `whileLoop`, `nestedLoop` |
+| **Strings** | `srtringIndex`, `stringMethods` |
+| **Data Structures** | `collection`, `2dCollection`, `Dictionary`, `listComprehensions`, `membershipOperator`, `Iterable` |
+| **Functions** | `functions`, `DefaultArguments`, `keywordArguments`, `args&kwargs`, `scopeResolution` |
+| **Modules & OOP** | `module`, `Exmodule`, `__name__Script1`, `__name__Script2` |
+| **Mini Projects** | `BankingProgram`, `encryptionProgram`, `ShoppingCart`, `concessionStand`, `countdownTimer`, `compoundInterestCalc`, `TemperatureConversion`, `weightConversion`, `calculator`, `randomNumber`, `DIceRoller`, `quizGame`, `Madlibs`, `Sort_try` |
+| **Games** | `RockPaperScissor`, `NumGuessing`, `Hangman_game` (with `hangman_wordlist`), `slotMachine` |
 
 ## 🚀 How to Run
 
