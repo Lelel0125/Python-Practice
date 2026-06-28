@@ -6,8 +6,7 @@ My personal collection of Python practice programs — from fundamentals to smal
 
 ```
 Python-Practice/
-├── Python Program/     # 33 beginner-to-intermediate exercises
-└── *.py                # Standalone projects & utilities
+└── Python Program/     # 51 Python programs — all in one place
 ```
 
 ## 🧩 What's Inside
