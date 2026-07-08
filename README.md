@@ -14,6 +14,8 @@ Fundamental Python programming — preparing for university CS/EE studies.
 `Static Methods` · `Class Methods` · `super()`
 `Exception Handling` · `File I/O (read / write / detect)`
 `Date & Time` · `Duck Typing`
+`PyQt5 (GUI)` · `Event-Driven Programming` · `CSS Styling`
+`Multithreading` · `REST APIs` · `HTTP Requests` · `JSON Parsing`
 
 ## 📂 What's Inside
 
@@ -27,8 +29,12 @@ Fundamental Python programming — preparing for university CS/EE studies.
 | **Modules & OOP** | `module`, `Exmodule`, `__name__Script1`, `__name__Script2`, `objectOriented`, `car_class`, `classMethods`, `class_variable`, `inheritance`, `multipleInheritance`, `polymorphism`, `magicMethods`, `property`, `staticMethods`, `super`, `duckTyping` |
 | **File I/O** | `readingFiles`, `writhingFiles`, `fileDetection` |
 | **Mini Projects** | `BankingProgram`, `encryptionProgram`, `ShoppingCart`, `concessionStand`, `countdownTimer`, `compoundInterestCalc`, `TemperatureConversion`, `weightConversion`, `calculator`, `randomNumber`, `DiceRoller`, `quizGame`, `Madlibs`, `alarmClock` |
+| **GUI** | `PythonGUIintro`, `PyQt5Button`, `PyQt5Checkbox`, `PyQt5CSSstyle`, `PyQt5DigitalClock`, `PyQt5Images`, `PyQt5Labels`, `PyQt5LayoutManager`, `PyQt5LineEdit`, `PyQt5RadioButton`, `PyQt5StopWatch` |
+| **Concurrency** | `multithreading` |
+| **API** | `requestAPIdata` |
 | **Games** | `RockPaperScissor`, `NumGuessing`, `Hangman_game` (with `hangman_wordlist`), `slotMachine` |
 | **Trying** | `Sort_try` |
+| **Final Project** | `WeatherAPI(need_api_key)` |
 
 ---
 
